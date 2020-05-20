@@ -1,8 +1,7 @@
 # Databasing_and_Scraping
 All my web scraping codes are included in this folder
 Please note all of this code is written by me and are not to be used for business purposes
-Web-Scraping, Mongo DB Projects<br>
-- this repository has all basic web scraping codes to help anyone start with scraping
+Web-Scraping, Mongo DB Projects: This repository has all basic web scraping codes to help anyone start with scraping
 IF you are looking for a complete end to end scraping project.<br>
 Give the Ebay Scraping Code a Look, it follows an entire scraping pipeline<br>
 - Extract all the URLs from Ebay
